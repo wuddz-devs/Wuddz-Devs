@@ -1,4 +1,4 @@
-![banner](assets\wd1.jpg)
+<img align = "left" width = 40% src = "assets\wd1.jpg"> 
 <h1 align ="center">Hi, I'm Wuddz-Devs</h1>
 <h3 align = "center"><strong>Python Developer</h3>
   
