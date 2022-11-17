@@ -26,16 +26,6 @@ to share with the world or any personal requests if applicable.
 <div align ="right">
   
 <div>
-
-[<img align="top" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCIjh0kW49lVGaU5MnPom_jg)
-<br>  
-[<img align="top" alt="reddit" src="https://img.shields.io/badge/Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" />](https://reddit.com/user/wuddz-devs)
-<br>   
-[<img align="top" alt="telegram" src="https://img.shields.io/badge/Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" />](https://t.me/wuddz_devs)
-<br>  
-[<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/wuddz-devs)
-<br>  
-[<img align="top" alt="mega" src="https://img.shields.io/badge/Sellix-6a3ce2?logo=Stripe&logoColor=white&style=for-the-badge"/>](https://mega.nz/folder/IWVAXTqS#FoZAje2NukIcIrEXXKTo0w)
 <br>  
 
 </div>
