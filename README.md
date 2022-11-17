@@ -1,14 +1,11 @@
-<img align = "center" width = 100% src = "assets\wd1.jpg"> 
-
-<div>
-<br>  
-
+<!-- @format -->
+<img width =100%  src = "assets\wd1.jpg">
 <h1 align ="center">Hi, I'm Wuddz-Devs</h1>
 <h3 align = "center"><strong>Python Developer</h3>
   
 <p align="center">
     <a href="https://www.youtube.com/channel/UCIjh0kW49lVGaU5MnPom_jg?sub_confirmation=1">
-      <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+      <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   </p>
 </p>
 <br>
@@ -27,9 +24,20 @@ to share with the world or any personal requests if applicable.
 <h2  > Find Me At</h2>
 
 <img align = "left" width = 50% src = "assets\wdevs.jpg"> 
-<div align ="right">
+<div>
   
 <div>
+
+
+[<img align="top" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCIjh0kW49lVGaU5MnPom_jg)
+<br>  
+[<img align="top" alt="reddit" src="https://img.shields.io/badge/-Reddit-f92910?style=for-the-badge&logo=Reddit&logoColor=white" />](https://reddit.com/user/wuddz-devs)
+<br>  
+[<img align="top" alt="telegram" src="https://img.shields.io/badge/-Telegram-10b0f9?style=for-the-badge&logo=Telegram&logoColor=white" />](https://t.me/wuddz_devs)
+<br>  
+[<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/wuddz-devs)
+<br>  
+[<img align="top" alt="mega" src="https://img.shields.io/badge/-Mega.nz-f92010?style=for-the-badge&logo=MEGA&logoColor=white"/>](https://mega.nz/folder/IWVAXTqS#FoZAje2NukIcIrEXXKTo0w)
 <br>  
 
 </div>
@@ -40,6 +48,8 @@ to share with the world or any personal requests if applicable.
 <br>
 <br>
 <br>
+
+---
 
 ## Tools and Technologies
 
@@ -66,7 +76,6 @@ to share with the world or any personal requests if applicable.
 ▶ [other videos...](https://mega.nz/folder/IWVAXTqS#FoZAje2NukIcIrEXXKTo0w)
 
 </p>
-
 
 
 ----
