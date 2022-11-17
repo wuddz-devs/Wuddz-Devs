@@ -1,4 +1,8 @@
-<img align = "left" width = 40% src = "assets\wd1.jpg"> 
+<img align = "center" width = 100% src = "assets\wd1.jpg"> 
+
+<div>
+<br>  
+
 <h1 align ="center">Hi, I'm Wuddz-Devs</h1>
 <h3 align = "center"><strong>Python Developer</h3>
   
@@ -22,7 +26,7 @@ to share with the world or any personal requests if applicable.
 
 <h2  > Find Me At</h2>
 
-<img align = "left" width = 40% src = "assets\wdevs.jpg"> 
+<img align = "left" width = 50% src = "assets\wdevs.jpg"> 
 <div align ="right">
   
 <div>
