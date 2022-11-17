@@ -65,6 +65,7 @@ to share with the world or any personal requests if applicable.
   <br/>
 </p>
 
+---
 
 ## 🎥 Latest YouTube Videos
 
