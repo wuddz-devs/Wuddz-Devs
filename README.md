@@ -69,7 +69,9 @@ to share with the world or any personal requests if applicable.
 
 <p align="center">
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SjESwOpwh7w"><img width="140px" src="https://i.ytimg.com/vi/SjESwOpwh7w/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=uFwl4S0Btpo"><img width="140px" src="https://i.ytimg.com/vi/uFwl4S0Btpo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=uFwl4S0Btpo">Wuddz-Trade Personalized Crypto Trading App Usage Tutorial</a><br/>Mar 31, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=SjESwOpwh7w"><img width="140px" src="https://i.ytimg.com/vi/SjESwOpwh7w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SjESwOpwh7w">wuddz_dapp Install &amp; Usage Tutorial</a><br/>Jan 12, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vpnprmeFLkM"><img width="140px" src="https://i.ytimg.com/vi/vpnprmeFLkM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vpnprmeFLkM">Set OS Date &amp; Time Using Python</a><br/>Jan 2, 2023</td></tr></table>
@@ -77,8 +79,6 @@ to share with the world or any personal requests if applicable.
 <td><a href="https://www.youtube.com/watch?v=GTvM5_gxhsk">Wuddz-Search-Gui Usage Tutorial &lpar;Edited&rpar;</a><br/>Sep 21, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=u09yjwVZkhw"><img width="140px" src="https://i.ytimg.com/vi/u09yjwVZkhw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=u09yjwVZkhw">Wuddz-Vpn Setup &amp; Usage Tutorial</a><br/>Sep 7, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=pqvLEyHPWAE"><img width="140px" src="https://i.ytimg.com/vi/pqvLEyHPWAE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pqvLEyHPWAE">Wuddz-Dapp, Setup &amp; Usage Tutorial</a><br/>Aug 30, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ▶ [other videos...](https://mega.nz/folder/IWVAXTqS#FoZAje2NukIcIrEXXKTo0w)
