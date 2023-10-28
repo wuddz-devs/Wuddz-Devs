@@ -17,7 +17,23 @@ who enjoys a good laugh, meeting & interacting with other like-minded individual
 while using my imagination, knowledge & skills to create awesome, efficient and user-friendly applications
 to share with the world or any personal requests if applicable.
 - Email:    wuddz_devs@protonmail.com
-- Donation: 0x1F1C47dD653Af628D394eac7bAA9Ccf774fd784f (Ethereum)
+
+## Support My Dream:
+
+![Alt Text](https://raw.githubusercontent.com/wuddz-devs/wuddz-devs/main/assets/eth.png)
+ - ERC20:    0xbF4d5309Bc633d95B6a8fe60E6AF490F11ed2Dd1
+
+![Alt Text](https://raw.githubusercontent.com/wuddz-devs/wuddz-devs/main/assets/btc.png)
+ - BTC:    bc1qa7ssx0e4l6lytqawrnceu6hf5990x4r2uwuead
+
+![Alt Text](https://raw.githubusercontent.com/wuddz-devs/wuddz-devs/main/assets/ltc.png)
+ - LTC:      LdbcFiQVUMTfc9eJdc5Gw2nZgyo6WjKCj7
+
+![Alt Text](https://raw.githubusercontent.com/wuddz-devs/wuddz-devs/main/assets/doge.png)
+ - DOGE:     DFwLwtcam7n2JreSpq1r2rtkA48Vos5Hgm
+
+![Alt Text](https://raw.githubusercontent.com/wuddz-devs/wuddz-devs/main/assets/tron.png)
+ - TRON:     TY6e3dWGpqyn2wUgnA5q63c88PJzfDmQAD
 
 ---
 
